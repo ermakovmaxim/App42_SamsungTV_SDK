@@ -1,0 +1,57 @@
+#SceneScene1{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 960px;
+	height : 540px;
+	background-color : #000000;
+	background-image : url('');
+}
+#SceneScene1 #userName{
+	position : absolute;
+	left : 150px;
+	top : 0px;
+	width : 291px;
+}
+#SceneScene1 #svecLabel_5i7pg0sgygqks{
+	position : absolute;
+	font-size : 10pt;
+	color : #ffffff;
+	left : 50px;
+	top : 20px;
+	width : 130px;
+}
+#SceneScene1 #xList{
+	position : absolute;
+	left : 720px;
+	top : 70px;
+	width : 129px;
+}
+#SceneScene1 #viewScore{
+	position : absolute;
+	left : 769px;
+	top : 460px;
+	width : 121px;
+}
+#SceneScene1 #sList{
+	position : absolute;
+	left : 850px;
+	top : 70px;
+	width : 112px;
+}
+#SceneScene1 #xLable{
+	position : absolute;
+	font-size : 10pt;
+	color : #0000a0;
+	left : 750px;
+	top : 40px;
+	width : 130px;
+}
+#SceneScene1 #sLable{
+	position : absolute;
+	font-size : 10pt;
+	color : #0000a0;
+	left : 879px;
+	top : 40px;
+	width : 130px;
+}
