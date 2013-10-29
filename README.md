@@ -9,9 +9,9 @@ App42 Client SDK for SamsungTV.
 4. Open init.js in your project and add initialize code here.
 
 ```javascript
-//APIKey and SecretKey recieved in step #2 above and do setBaseUrl and put url i.e url of your api server.  
-App42.initialize("<YOUR_API_KEY>","<YOUR_SECRET KEY");
-App42.setBaseUrl("YOUR_BPAAS_API_SERVER_URL");
+//APIKey and SecretKey recieved in step #2 above and do setBaseUrl and put url i.e url of your BPaaS api server.  
+App42.initialize("<YOUR_API_KEY>","<YOUR_SECRET_KEY>");
+App42.setBaseUrl("<YOUR_BPAAS_API_SERVER_URL>");
 ```
 
 - Instantiate the service that one wants to use in the App, e.g. using ScoreBoard service one has to do the following
