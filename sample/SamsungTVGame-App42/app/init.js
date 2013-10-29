@@ -5,7 +5,7 @@ function onStart () {
 	
 	// App42 initialize code.
 	App42.initialize("Your APIKey","Your SecretKey");
-	
+	App42.setBaseUrl("YOUR API SERVER URL");
 	sf.scene.show('Scene1');
 	sf.scene.focus('Scene1');
 	

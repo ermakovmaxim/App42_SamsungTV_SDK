@@ -15,7 +15,7 @@ function saveScore(userName, score) {
 
 		},
 		error : function(error) {
-			alert("Plase Create Atleast One Game With AppHQ Management Console.from ' https://apphq.shephertz.com/register/app42Login '");
+			alert("Plase Create Atleast One Game With BPaaS AppHQ Management Console");
 			alert(error);
 		}
 	});
@@ -44,7 +44,7 @@ function getAllTopScore() {
 			$('#xList').addClass('active');
 		},
 		error : function(error) {
-			alert("Plase Create Atleast One Game With AppHQ Management Console.from ' https://apphq.shephertz.com/register/app42Login '");
+			alert("Plase Create Atleast One Game With BPaaS AppHQ Management Console");
 			alert(error);
 		}
 	});
