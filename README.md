@@ -10,8 +10,8 @@ App42 Client SDK for SamsungTV.
 
 ```javascript
 //APIKey and SecretKey recieved in step #2 above and do setBaseUrl and put url i.e url of your api server.  
-App42.initialize("YOUR_API_KEY","YOUR_SECRET_KEY");
-App42.setBaseUrl("YOUR API SERVER URL");
+App42.initialize("<YOUR_API_KEY>","<YOUR_SECRET KEY");
+App42.setBaseUrl("YOUR_BPAAS_API_SERVER_URL");
 ```
 
 - Instantiate the service that one wants to use in the App, e.g. using ScoreBoard service one has to do the following
@@ -25,8 +25,8 @@ var scoreBoard = new App42ScoreBoard();
 - Now one can call associated method of that service e.g. save user score can be done with the following snippet
 
 ```javascript
-var gameName = "your game name",
-userName = "your user name",
+var gameName = "<your game name>",
+userName = "<your user name>",
 score = 10;
 scoreBoard.saveUserScore(gameName, userName, score,{
 success: function(object) {
@@ -37,5 +37,5 @@ error: function(error) {
 ```
 
 - Executing above method will save user score for your game in App42 BPaaS cloud.
-- You can login to AppHQ console and can see the saved score there.
+- You can login to BPaaS AppHQ console and can see the saved score there.
 - Similarly one can use other App42 BPaaS services like File Upload, Gaming, NoSQL Storage to make user engaging social Apps for HTML5.
