@@ -1,4 +1,4 @@
-App42_BPAAS_SamsungTV_SDK
+App42_BPaaS_SamsungTV_SDK
 ===================
 
 App42 Client SDK for SamsungTV.
