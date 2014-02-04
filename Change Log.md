@@ -1,5 +1,5 @@
-* [Release Version 2.3](https://github.com/shephertz/App42_JAVASCRIPT_SDK/blob/master/Change%20Log.md#version-23)
-* [Release Version 2.2](https://github.com/shephertz/App42_JAVASCRIPT_SDK/blob/master/Change%20Log.md#version-22)
+* [Release Version 2.3](https://github.com/shephertz/App42_SamsungTV_SDK/blob/master/Change%20Log.md#version-23)
+* [Release Version 2.2](https://github.com/shephertz/App42_SamsungTV_SDK/blob/master/Change%20Log.md#version-22)
 * [Release Version 2.1](https://github.com/shephertz/App42_SamsungTV_SDK/blob/master/Change%20Log.md#version-21)
 * [Release Version 2.0](https://github.com/shephertz/App42_SamsungTV_SDK/blob/master/Change%20Log.md#version-20)
 
